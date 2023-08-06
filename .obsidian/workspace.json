@@ -138,7 +138,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -151,8 +150,10 @@
   },
   "active": "a4e4dcef6d7dfc77",
   "lastOpenFiles": [
-    "content/posts/Kubernetes/_index.md",
+    "content/posts/Linux/常用操作.md",
+    "content/posts/Linux/_index.md",
     "content/posts/Kubernetes/K8S搭建.md",
+    "content/posts/Kubernetes/_index.md",
     "content/posts/Kubernetes/基本概念.md",
     "content/posts/设计模式/_index.md",
     "content/post/算法/基本模板-C++.md",
@@ -161,8 +162,6 @@
     "content/posts/算法",
     "content/posts/设计模式/单例模式.md",
     "content/posts/设计模式",
-    "content/posts/Linux/常用操作.md",
-    "content/posts/Linux/_index.md",
     "content/posts/Linux/Tinyproxy安装及使用.md",
     "content/posts/Linux",
     "content/posts/Kubernetes",
