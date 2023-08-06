@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/设计模式/_index.md",
+                "file": "content/posts/Kubernetes/K8S搭建.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/设计模式/_index.md",
+                "file": "content/posts/Kubernetes/K8S搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/设计模式/_index.md",
+                "file": "content/posts/Kubernetes/K8S搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/设计模式/_index.md"
+                "file": "content/posts/Kubernetes/K8S搭建.md"
               }
             }
           }
@@ -151,19 +151,20 @@
   },
   "active": "a4e4dcef6d7dfc77",
   "lastOpenFiles": [
+    "content/posts/Kubernetes/_index.md",
+    "content/posts/Kubernetes/K8S搭建.md",
+    "content/posts/Kubernetes/基本概念.md",
+    "content/posts/设计模式/_index.md",
     "content/post/算法/基本模板-C++.md",
     "content/posts/算法/基本模板-C++.md",
     "content/posts/算法/_index.md",
     "content/posts/算法",
     "content/posts/设计模式/单例模式.md",
-    "content/posts/设计模式/_index.md",
     "content/posts/设计模式",
     "content/posts/Linux/常用操作.md",
     "content/posts/Linux/_index.md",
     "content/posts/Linux/Tinyproxy安装及使用.md",
     "content/posts/Linux",
-    "content/posts/Kubernetes/基本概念.md",
-    "content/posts/Kubernetes/_index.md",
     "content/posts/Kubernetes",
     "content/posts/Docker/_index.md",
     "content/posts/Docker/Dockerfile的书写.md",
@@ -181,7 +182,6 @@
     "工作/云眼K8s/k8s.yaml/STEP3--nginx-conf.yaml.md",
     "工作/云眼K8s/k8s.yaml/STEP5.1--MySQL-pv.yaml.md",
     "工作/云眼K8s/k8s.yaml/STEP5.3--MySQL.yaml.md",
-    "工作/云眼K8s/k8s.yaml/STEP5.2--MySQL-pvc.yaml.md",
     "Excalidraw",
     "工作/云眼K8s/k8s.yaml",
     "工作/云眼K8s",
