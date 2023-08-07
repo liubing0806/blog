@@ -11,3 +11,16 @@ pod是kubernetes的原子调度单位，是一组共享某些资源的容器
 
 pod扮演了传统基础设施中的虚拟机的角色，而容器扮演了虚拟机中的程序
 
+pod中几个重要字段的概念和用法：
+
+## NodeSelector
+```
+apiVersion:v1
+kind:pod
+	spec:
+		nodeSelector:
+			diskType:ssd
+
+```
+
+意味着这个pod只会在有diskType:ssd节点上运行
