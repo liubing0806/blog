@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Kubernetes/基本概念.md",
+                "file": "content/posts/Kubernetes/pod.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Kubernetes/基本概念.md",
+                "file": "content/posts/Kubernetes/pod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Kubernetes/基本概念.md",
+                "file": "content/posts/Kubernetes/pod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Kubernetes/基本概念.md"
+                "file": "content/posts/Kubernetes/pod.md"
               }
             }
           }
@@ -154,7 +154,7 @@
     "content/posts/Kubernetes/K8S搭建.md",
     "content/posts/Linux/常用操作.md",
     "content/posts/Linux/_index.md",
-    "content/posts/Kubernetes/基本概念.md",
+    "content/posts/Kubernetes/pod.md",
     "content/posts/设计模式/_index.md",
     "content/post/算法/基本模板-C++.md",
     "content/posts/算法/基本模板-C++.md",
