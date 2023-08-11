@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/设计模式/单例模式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a45c607d491efaa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/Kubernetes/K8S搭建.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cd79b30d8f09798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/Linux/常用操作.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc8499ec8a2939ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/Linux/常用操作.md",
+                "file": "content/posts/Docker/Docke-compose.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Linux/常用操作.md",
+                "file": "content/posts/Docker/Docke-compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Linux/常用操作.md",
+                "file": "content/posts/Docker/Docke-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Linux/常用操作.md"
+                "file": "content/posts/Docker/Docke-compose.md"
               }
             }
           }
@@ -182,28 +145,25 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc8499ec8a2939ea",
+  "active": "a4e4dcef6d7dfc77",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "content/posts/Linux/常用操作.md",
-    "content/posts/Kubernetes/K8S搭建.md",
+    "content/posts/Linux/Tinyproxy安装及使用.md",
+    "content/posts/Linux/_index.md",
     "content/posts/Kubernetes/pod.md",
-    "content/posts/设计模式/单例模式.md",
+    "content/posts/Kubernetes/_index.md",
+    "content/posts/Kubernetes/K8S搭建.md",
     "content/posts/设计模式/_index.md",
     "content/post/算法/基本模板-C++.md",
     "content/posts/算法/基本模板-C++.md",
     "content/posts/算法/_index.md",
     "content/posts/算法",
+    "content/posts/设计模式/单例模式.md",
     "content/posts/设计模式",
-    "content/posts/Linux/_index.md",
-    "content/posts/Linux/Tinyproxy安装及使用.md",
     "content/posts/Linux",
-    "content/posts/Kubernetes/基本概念.md",
-    "content/posts/Kubernetes/_index.md",
     "content/posts/Kubernetes",
     "content/posts/Docker/_index.md",
     "content/posts/Docker/Dockerfile的书写.md",
@@ -219,6 +179,8 @@
     "工作/云眼K8s/k8s.yaml/STEP7--cloud-eyes.yaml.md",
     "工作/云眼K8s/k8s.yaml/STEP2--configmap.yaml.md",
     "工作/云眼K8s/k8s.yaml/STEP3--nginx-conf.yaml.md",
+    "工作/云眼K8s/k8s.yaml/STEP5.1--MySQL-pv.yaml.md",
+    "工作/云眼K8s/k8s.yaml/STEP5.3--MySQL.yaml.md",
     "Excalidraw",
     "工作/云眼K8s/k8s.yaml",
     "工作/云眼K8s",
