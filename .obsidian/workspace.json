@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Linux/常用操作.md",
+                "file": "content/posts/设计模式/单例模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d91e6926c351339f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Linux/常用操作.md",
+                "file": "content/posts/设计模式/单例模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Linux/常用操作.md",
+                "file": "content/posts/设计模式/单例模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Linux/常用操作.md"
+                "file": "content/posts/设计模式/单例模式.md"
               }
             }
           }
@@ -150,8 +151,8 @@
   },
   "active": "a4e4dcef6d7dfc77",
   "lastOpenFiles": [
-    "content/posts/Docker/Docke-compose.md",
     "content/posts/Linux/常用操作.md",
+    "content/posts/Docker/Docke-compose.md",
     "content/posts/Linux/Tinyproxy安装及使用.md",
     "content/posts/Linux/_index.md",
     "content/posts/Kubernetes/pod.md",
