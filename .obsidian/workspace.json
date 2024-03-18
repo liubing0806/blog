@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "22b8ee54f4f1b9e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "74eea77f2a21f9e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a6a97c1b35296e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dedaf27d2f4a2c4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "57727d673be65153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdcfa37d179a0418",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "453d696009081e6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ceb20b801a993e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d85cc13f8718c312",
+    "type": "split",
+    "children": [
+      {
+        "id": "2102451cc0de3f53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b281fbea301586ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02e6029ded556e53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66b19335bc7b14c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9c40261805e8cec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bdcfa37d179a0418",
+  "lastOpenFiles": [
+    "未命名.md",
+    "_posts/Java/未命名.md",
+    "_posts/Starrocks",
+    "_posts/Redis",
+    "_posts/MySQL",
+    "_posts/Zookeeper",
+    "_posts/Netty",
+    "_posts/系统设计",
+    "_posts/计算机网络",
+    "_posts/未命名.md",
+    "_posts/操作系统",
+    "_posts/Kafka",
+    "_posts/Dubbo",
+    "_posts/en/template.md",
+    "_posts/Java/测试.md",
+    "_posts/2021-12-22-new-theme-h2o-ac.md",
+    "_posts/2017-04-18-hello-jekyll.md",
+    "_posts/2017-07-30-mathjax-test.md",
+    "_posts/2017-04-18-new-theme-h2o.md"
+  ]
+}
