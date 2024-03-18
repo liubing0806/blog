@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_posts/设计模式/单例模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:mathjax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_posts/设计模式/单例模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_posts/设计模式/单例模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_posts/设计模式/单例模式.md"
               }
             }
           }
@@ -146,8 +147,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d8a6a97c1b35296e",
+  "active": "453d696009081e6d",
   "lastOpenFiles": [
+    "_posts/en/template.md",
+    "_posts/设计模式/单例模式.md",
+    "README.md",
+    "_posts/设计模式",
     "未命名.md",
     "_posts/Java/未命名.md",
     "_posts/Starrocks",
@@ -160,8 +165,6 @@
     "_posts/未命名.md",
     "_posts/操作系统",
     "_posts/Kafka",
-    "_posts/Dubbo",
-    "_posts/en/template.md",
     "_posts/Java/测试.md",
     "_posts/2021-12-22-new-theme-h2o-ac.md",
     "_posts/2017-04-18-hello-jekyll.md",
