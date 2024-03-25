@@ -7,7 +7,6 @@ permalink: /tos.html
 
 # 本站使用条款
 
-&emsp;&emsp;H2O-ac（[https://h2o-ac.pages.dev](https://h2o-ac.pages.dev)），以下简称“本站”。
 
 ## 隐私政策
 
