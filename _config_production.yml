@@ -2,10 +2,10 @@
 version: 1.2.1
 
 # Site settings 配置站点
-title: 'Mr Li'
+title: 'liu bing notes'
 description: '个人的一个技术博客站点，主要用于记录个人在学习过程中遇到的技术问题及解决方法、技术实验，以及一些比较有趣的事情。'
-keyword: 'zhonger，zhonger的博客，nodejs，kvm, 机器学习'
-url: 'https://h2o-ac.pages.dev' # your host
+keyword: 'liubing'
+# url: 'https://h2o-ac.pages.dev' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -23,7 +23,7 @@ default_lang: "zh-Hans"
 
 # Github
 github:
-  enabled: true
+  enabled: false
   owner: zhonger
   repository: jekyll-theme-H2O-ac
 
@@ -39,11 +39,7 @@ nav:
   archives: '/archives.html'
   tags: '/tags.html'
   about:   
-    logs: '/logs.html'
-    tos: '/tos.html'
     RSS: '/feed.xml'
-    CV: '/cv.html'
-    links: '/links.html'
 
 # Gray for the whole site 全站灰色
 gray: false
@@ -58,12 +54,12 @@ favicon: "/favicon.ico"
 
 # Footer
 footer:
-  since: 2015
+  since: 2024
 
 # Author 配置博主信息
-author: 'zhonger'
-nickname: 'zhonger'
-bio: '全栈开发者，热爱前端、运维和架构设计'
+author: 'liubing'
+nickname: 'liubing'
+bio: '全栈开发者，热爱后端、运维和架构设计'
 avatar: '/assets/img/profile.webp'
 
 # Search
@@ -74,12 +70,12 @@ nightMode: false
 
 # Comments 评论功能
 comments:
-  disqus: true
+  disqus: false
   disqus_url: 'https://h2o-ac.disqus.com/embed.js'
-  waline: true
+  waline: false
   waline_url: 'https://h2o-ac-waline.deta.dev/'
-  waline_reaction: true
-  waline_locale: "{reaction0: '赞一个', reaction1: '踩一下', reaction2: '有点酷', reaction3: '看不懂', reaction4: '啥玩意', reaction5: '想睡觉'}"
+  waline_reaction: false
+  waline_locale: 
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
@@ -90,7 +86,6 @@ social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
-# theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
@@ -98,20 +93,20 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  google-scholar: 'https://scholar.google.com/citations?user=AUupIooAAAAJ'
-  researchgate: 'https://www.researchgate.net/profile/Shengzhou-Li'
-  ORCID: 'https://orcid.org/0000-0001-6973-3825'
-  github: 'https://github.com/zhonger'
-  linkedin: 'https://www.linkedin.com/in/shengzhouli/'
-  segmentfault: 'https://segmentfault.com/u/wuwozhonger'
+  # google-scholar: 'https://scholar.google.com/citations?user=AUupIooAAAAJ'
+  # researchgate: 'https://www.researchgate.net/profile/Shengzhou-Li'
+  # ORCID: 'https://orcid.org/0000-0001-6973-3825'
+  # github: 'https://github.com/zhonger'
+  # linkedin: 'https://www.linkedin.com/in/shengzhouli/'
+  # segmentfault: 'https://segmentfault.com/u/wuwozhonger'
 
 # Links 友情链接
 links:
-  'Mr Li': 'https://lisz.me'
+  # 'Mr Li': 'https://lisz.me'
 
 # Supports 赞助商
 supports:
-  upyun: true
+  upyun: 
   webify: 
 
 # Beian 备案号
@@ -183,25 +178,25 @@ permalink: /:categories/:title.html
 extlinks:
   attributes: {rel: nofollow, target: _blank, class: extlinks}
   # rel_exclude: ['host1.com', 'host2.net']
-  class_exclude: ['h2o-ac.pages.dev', 'h2o-ac.lisz.ink', 'h2o-ac.vercel.app', 'h2o-ac.lui.site', 'h2o-ac.lisz.me']
+  # class_exclude: ['host1.com', 'host2.net']
 
 # Mermaid
 mermaid: true
 
 # Webpusher
-webpusher: BKfCOgmaRwWSMgx0RID3WIvqMSIHnVoL8fK7YfB8jeh2SgSEzWcvhhsxW2EmVl99Q-5f3KlxHUN4MxDIhgajiTo
+webpusher: false
 
 # Foreverblog
-foreverblog: true
+foreverblog: false
 
 # Wormhole
-wormhole: true
+wormhole: false
 
 # NotByAI
-notbyAI: true
+notbyAI: false
 
 # Alive time
-alivetime: true
+alivetime: false
 alivestart: "12/23/2021"
 
 # TOC

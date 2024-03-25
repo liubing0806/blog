@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/archives.md",
+                "file": "pages/cv.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/archives.md",
+                "file": "pages/cv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/archives.md",
+                "file": "pages/cv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/archives.md"
+                "file": "pages/cv.md"
               }
             }
           }
@@ -149,18 +149,19 @@
   "active": "10b75d47f18c8e29",
   "lastOpenFiles": [
     "pages/categories.md",
-    "pages/en_index.md",
-    "pages/logs.md",
-    "pages/manifest.md",
-    "pages/rss.md",
+    "pages/archives.md",
+    "pages/tos.md",
     "pages/search.md",
     "pages/sw.md",
-    "README.md",
-    "pages/tos.md",
-    "pages/tags.md",
+    "pages/rss.md",
+    "pages/manifest.md",
+    "pages/logs.md",
     "pages/links.md",
     "pages/index.md",
-    "pages/archives.md",
+    "_posts/Java/未命名.md",
+    "pages/en_index.md",
+    "README.md",
+    "pages/tags.md",
     "pages/cv.md",
     "_posts/设计模式/单例模式.md",
     "_posts/未命名.canvas",
@@ -175,7 +176,6 @@
     "_posts/中间件/数据库/MySQL",
     "_posts/中间件/数据库",
     "_posts/中间件/Zookeeeper",
-    "_posts/Java/未命名.md",
     "_site/assets/img/touch/apple-touch-icon.png",
     "_site/assets/img/touch/android-chrome-maskable-512x512.png",
     "_site/assets/img/touch/android-chrome-maskable-192x192.png",
