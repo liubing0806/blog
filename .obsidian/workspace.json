@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/cv.md",
+                "file": "_posts/设计模式/设计模式基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "我是一名来自xx大学的博士生。。。。。。",
+                "query": "tag:mathjax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d85cc13f8718c312",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/cv.md",
+                "file": "_posts/设计模式/设计模式基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/cv.md",
+                "file": "_posts/设计模式/设计模式基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/cv.md"
+                "file": "_posts/设计模式/设计模式基础.md"
               }
             }
           }
@@ -146,8 +147,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "10b75d47f18c8e29",
+  "active": "453d696009081e6d",
   "lastOpenFiles": [
+    "_posts/设计模式/单例模式.md",
+    "_posts/设计模式/设计模式基础.md",
+    "pages/cv.md",
     "pages/categories.md",
     "pages/archives.md",
     "pages/tos.md",
@@ -162,8 +166,6 @@
     "pages/en_index.md",
     "README.md",
     "pages/tags.md",
-    "pages/cv.md",
-    "_posts/设计模式/单例模式.md",
     "_posts/未命名.canvas",
     "_posts/中间件/Docker",
     "_posts/中间件/Kubernetes",
